@@ -4,7 +4,7 @@ Customer Invoicing System
 
 Complete MEAN(MongoDB, Express, Angular2, Node.js) stack Invoice Application built from scratch.
 
-###### Quick Summary on technologies used:
+### Quick Summary on technologies used:
 
 ##### Mongo 
 * NoSQL Database
@@ -21,7 +21,7 @@ Complete MEAN(MongoDB, Express, Angular2, Node.js) stack Invoice Application bui
 * JavaScript Runtime
 
 ### Install
-1. Download zip file. Decompress "Invoicr-master.zip"
+1.  Download zip file. Decompress "Invoicr-master.zip"
 2. Open up a Terminal and change to the Directory of "Invoicr-master"
 3. run,
    
