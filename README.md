@@ -48,5 +48,6 @@ Complete MEAN(MongoDB, Express, Angular2, Node.js) stack Invoice Application bui
 7. Done.
 
 
-
+### Note:
+Feel free to fork and fix tiny bug. When user clicks "Mark Paid" button, it changes the status to paid; however, once the user refreshes page, status switches back to unpaid and vice versa. 
 
