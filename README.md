@@ -25,15 +25,15 @@ Complete MEAN(MongoDB, Express, Angular2, Node.js) stack Invoice Application bui
 2. Open up a Terminal and change to the Directory of "Invoicr-master"
 3. run,
    
-    npm install express mongoose body-parser --save
+       npm install express mongoose body-parser --save
 
 4. In that same directory run either of the following two commands (),
 
-    npm start
+       npm start
     
       or
       
-    nodemon     
+       nodemon     
     
     Quick Tip: How to install nodemon so you are able to use it above. 
         
